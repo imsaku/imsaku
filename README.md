@@ -1,7 +1,24 @@
-👋yo, my name is saku, i'm a 14 y/o beginner dev doing random stuff. 
+Yo, people. My name (not real) is Saku. I'm a thirteen year old trying to make the next big thing.
+Currently, the one most important project I'm actively working on and developing is @meliveworks.
+More on that on the meliveworks page.
 
-i'm mostly experienced with batch and javascript.
+Anyways - the main things that should be on a GH README.md:
 
-like my stuff? sub to me on my currently in the works youtube channel: https://www.youtube.com/channel/UCjzWKgcrqqH1n_r9rPCMI3g
+I code in:
+Javascript:
+ - Node.JS
+ - Express.JS
+ - A bit of React.JS
+ - A bit of Vue.JS
+ - General JS.
+Batch/PWSH scripts;
+Arduino;
+A bit of Java;
+HTML, of course.
 
-have a great day/night and stay safe!
+And no, I don't have any social media. Don't really like TikTok or that sort of data-swallowing stuff.
+
+Contact Email:
+imsaku@proton.me
+(Soon to transition to own server, but for now, protonmail is the one I'm going with as per reliability on their side for all the years I've been using their services.)
+
