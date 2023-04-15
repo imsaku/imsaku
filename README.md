@@ -24,6 +24,5 @@ HTML, of course.
 And no, I don't have any social media. Don't really like TikTok or that sort of data-swallowing stuff.
 
 Contact Email:
-imsaku@proton.me
-(Soon to transition to own server, but for now, protonmail is the one I'm going with as per reliability on their side for all the years I've been using their services.)
+Not Available. Old imsaku email was nuked, please check back for that later!
 
